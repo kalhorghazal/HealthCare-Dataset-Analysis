@@ -1,5 +1,5 @@
 [submodule "Phase1"]
-	path = HealthCare-Dataset-Visualization
+	path = Phase1
 	url = https://github.com/kalhorghazal/HealthCare-Dataset-Visualization
 [submodule "Phase2"]
 	path = HealthCare-Dataset-Statistical-Analysis
